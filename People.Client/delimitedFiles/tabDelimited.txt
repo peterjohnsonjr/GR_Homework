@@ -1,0 +1,6 @@
+Barber	Victor	Male	Green	09/10/1975
+Guerra	Rachel	Female	Lavender	03/05/1987
+Blackwell	Mallroy	Male	Brown	12/15/1972
+Wu	Marshall	Male	Peach	04/26/1962
+Casey	Ashleigh	Female	Red	01/18/1991
+Vaughan	Isla	Female	Silver	05/19/1948
